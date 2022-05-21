@@ -17,5 +17,3 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 # Hello VuePress
 
-## PWA
-为了演示 PWA 弹窗效果
